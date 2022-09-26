@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cf2b137e-5124-4dd9-869e-270ec9ffeb00" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="HTML File" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../java_install/apache-maven-3.3.9" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="skipTests" value="true" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="27jLUR2OEoOfmYvlwLBQgEOgBmC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Java/JavaProjects/18-SecKill-demo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "spring.configuration.checksum": "b7597bd5524c5d7534fe7e688ea5d1f9"
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="xyz.hco3o.seckill.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\JavaProjects\seckill-demo\18-SecKill-demo\src\main\java\xyz\hco3o\seckill\utils" />
+      <recent name="D:\Java\JavaProjects\seckill-demo\18-SecKill-demo\src\main\resources\static" />
+      <recent name="D:\Java\JavaProjects\seckill-demo\18-SecKill-demo\src\main\resources\templates" />
+      <recent name="D:\Java\JavaProjects\seckill-demo\18-SecKill-demo\src\main\resources\mapper" />
+      <recent name="D:\Java\JavaProjects\seckill-demo\18-SecKill-demo\src\main\java\xyz\hco3o\seckill\service" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java\JavaProjects\seckill-demo\18-SecKill-demo\src\main\resources\static\img" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration name="MD5Util" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xyz.hco3o.seckill.utils.MD5Util" />
+      <module name="18-SecKill-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xyz.hco3o.seckill.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xyz.hco3o.seckill.utils.UserUtil" />
+      <module name="18-SecKill-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xyz.hco3o.seckill.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationTests.testLock01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="18-SecKill-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xyz.hco3o.seckill.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="xyz.hco3o.seckill" />
+      <option name="MAIN_CLASS_NAME" value="xyz.hco3o.seckill.ApplicationTests" />
+      <option name="METHOD_NAME" value="testLock01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationTests.testLock2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="18-SecKill-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xyz.hco3o.seckill.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="xyz.hco3o.seckill" />
+      <option name="MAIN_CLASS_NAME" value="xyz.hco3o.seckill.ApplicationTests" />
+      <option name="METHOD_NAME" value="testLock2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationTests.testLock3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="18-SecKill-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xyz.hco3o.seckill.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="xyz.hco3o.seckill" />
+      <option name="MAIN_CLASS_NAME" value="xyz.hco3o.seckill.ApplicationTests" />
+      <option name="METHOD_NAME" value="testLock3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="18-SecKill-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="xyz.hco3o.seckill.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ApplicationTests.testLock3" />
+        <item itemvalue="JUnit.ApplicationTests.testLock2" />
+        <item itemvalue="JUnit.ApplicationTests.testLock01" />
+        <item itemvalue="Application.UserUtil" />
+        <item itemvalue="Application.MD5Util" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf2b137e-5124-4dd9-869e-270ec9ffeb00" name="Changes" comment="" />
+      <created>1649828563854</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649828563854</updated>
+      <workItem from="1649828565844" duration="3730000" />
+      <workItem from="1649836309577" duration="516000" />
+      <workItem from="1649836859530" duration="5330000" />
+      <workItem from="1649845325995" duration="2822000" />
+      <workItem from="1649851911851" duration="8125000" />
+      <workItem from="1649906126050" duration="15293000" />
+      <workItem from="1649940136935" duration="3126000" />
+      <workItem from="1649993706543" duration="1877000" />
+      <workItem from="1650019789345" duration="13040000" />
+      <workItem from="1650082043877" duration="46970000" />
+      <workItem from="1650361914671" duration="42786000" />
+      <workItem from="1650707917975" duration="15122000" />
+      <workItem from="1650864469397" duration="368000" />
+      <workItem from="1650965281718" duration="180000" />
+      <workItem from="1651216907105" duration="362000" />
+      <workItem from="1651217289243" duration="4000" />
+      <workItem from="1652279595538" duration="32000" />
+      <workItem from="1652279645505" duration="417000" />
+      <workItem from="1652361860761" duration="12000" />
+      <workItem from="1660296413276" duration="4122000" />
+      <workItem from="1660360039323" duration="1947000" />
+      <workItem from="1660633987536" duration="7279000" />
+      <workItem from="1661154966871" duration="1518000" />
+      <workItem from="1661310207032" duration="603000" />
+      <workItem from="1661326978681" duration="792000" />
+      <workItem from="1663643609553" duration="675000" />
+      <workItem from="1663674035332" duration="6000" />
+      <workItem from="1664164391588" duration="407000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
